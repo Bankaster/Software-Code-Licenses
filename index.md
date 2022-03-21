@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## What is a software or code license?
 
-You can use the [editor on GitHub](https://github.com/Bankaster/Software-Code-Licenses/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A software or code license is a document that provides legally binding guidelines for the use and distribution of software. These contracts include a series of terms and clauses that the user must comply with in order to use it. Also software licenses typically provide end users with the right to one or more copies of the software without violating copyrights and they specify protections if the software or its use infringes on the intellectual property rights of others too.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Type of licenses
+There are many types of licenses that anyone can use for their projects, but we can classify them into 5 basic types:
 
-### Markdown
+[**Public domain Licenses**]()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[**Lesser General Public Licenses**]()
 
-```markdown
-Syntax highlighted code block
+[**Permissive Licenses**]()
 
-# Header 1
-## Header 2
-### Header 3
+[**Copyleft Licenses**]()
 
-- Bulleted
-- List
+[**Proprietary Licenses**]()
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Public domain Licenses
+This software is freely available. Anyone can use and change it or incorporate code from this software into an application. However, businesses should use caution as altered code may not meet enterprise quality and security standards. Companies should be wary of ambiguous licenses that appear to be public domain but do not explicitly say so.
 
-[Link](url) and ![Image](src)
-```
+## Lesser General Public Licenses
+A Lesser General Public License (LGPL) is a license for open-source software that allows for provisions for including elements of free software in either free or proprietary software. Lesser General Public License is sometimes referred to as "Library GPL" or "GNU libraries," and some associate it with the idea of engineering for libraries in shared resources.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Permissive Licenses
+This type of license will establish some requirements for distribution or modification of the software. It also has requirements for preserving license notices, copyrights or trademarks. There are several variations of permissive licenses, including Apache, BSD (Berkeley Source Distribution) and MIT licenses.
 
-### Jekyll Themes
+## Copyleft Licenses
+Licensed code may be distributed or modified as part of a software application or project if all code involved is distributed under the same license. New products containing old code with a copyleft license must comply with the restrictions laid out in the old code's license.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bankaster/Software-Code-Licenses/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Proprietary Licenses
+This is the most restrictive license type. Proprietary software licenses make it illegal to copy, modify or distribute the software. These licenses provide the software owners with the most protection from unauthorized use of the software.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+[Return home]()
