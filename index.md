@@ -37,6 +37,9 @@ Another example of licenses types will be Trial licenses that allows the user to
 ## Open-source software licences
 here are some links where you can check a [**list of open-source video games**](https://en.wikipedia.org/wiki/List_of_open-source_video_games) or a [**comparison of free and open-source software licences**](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences) in case you need to decide what type of license your projects need.
 
+## Link to the Project II presentation
+[**Software / Code Licenses Google presentation**](https://docs.google.com/presentation/d/1V3dAYCEg3Fko75sP56660H_0WlP1_yq4qEo771x4a-4/edit?usp=sharing)
+
 ## Bibliography
 [**Types of software licenses**](https://www.tecnologia-informatica.com/tipos-licencias-software-libre-comercial/)
 
